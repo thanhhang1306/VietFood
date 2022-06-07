@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VietFood!</string>
+    <string name="welcome_message">Welcome to VietFood!</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+    <string name="welcome1">New to VietFood?</string>
+    <string name="welcome2">Register here!</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="already">Already have an account?:</string>
+    <string name="login_here">Login here!</string>
+    <string name="full_name">Full Name:</string>
+    <string name="all_menus">All Menus</string>
+    <string name="edit_menus">Edit Menus</string>
+    <string name="add_menus">Add Menus</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete recipe</string>
+    <string name="ingredient_list">Ingredient List</string>
+</resources>

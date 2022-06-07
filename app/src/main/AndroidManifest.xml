@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vietfoodapp">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.VietFood1">
+        <activity android:name=".IngredientActivity"/>
+        <activity android:name=".BaseActivity" />
+        <activity android:name=".BaseActivity1" />
+        <activity android:name=".BaseActivity3" />
+        <activity android:name=".BaseActivity2"/>
+        <activity android:name=".AddActivity" />
+        <activity android:name=".AddActivity1" />
+        <activity android:name=".AddActivity2" />
+        <activity android:name=".EditActivity" />
+        <activity android:name=".EditActivity1" />
+        <activity android:name=".EditActivity2" />
+        <activity android:name=".EditActivity3" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".InstructionActivity" />
+        <activity android:name=".SplashActivity" />
+        <activity
+            android:name=".StartActivity"
+            android:exported="true">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+    </application>
+
+</manifest>
