@@ -4,7 +4,7 @@ VietFood is an Android app, storing recipes for Vietnamese cuisine through the u
 ## Creation Process
 The application was designed to solve an issue from a client, who found it difficult to introduce her friends to Vietnamese cuisines as the recipes found online were often long and confusing. As such, the client requested I created an Android app, minimalistic in design, which include simple recipe instructions. 
   
-  → Part 1: Planning -- Defining the problem, rationale for development, and success criteria. Link to documentation [here](https://docs.google.com/spreadsheets/d/1438jmc60yZ8WATKhLwyFUdHgVIiW7_MZ/edit?usp=share_link&ouid=101330821966771009685&rtpof=true&sd=true).
+  → Part 1: Planning -- Defining the problem, rationale for development, and success criteria. Link to documentation [here](https://drive.google.com/file/d/1Arm3wEG6egSRmfzcR7nsQTQvEMTgbFyn/view?usp=share_link).
   
   → Part 2: Record of tasks -- Plan out the general timeline for the development of the application. Link to documentation [here](https://drive.google.com/file/d/1d13xU7pKH70bJd7o2isHXlXHEQT1yoqx/view?usp=share_link).
   
