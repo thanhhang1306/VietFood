@@ -19,7 +19,7 @@ The application was designed to solve an issue from a client, who found it diffi
   → Part 7: Appendix -- Include transcript of interview and surveys with the client. Link to documentation [here](https://drive.google.com/file/d/1U_cFFN4pyAuv2eTiPWhQmucSEWJqYBim/view?usp=share_link).
 
 ## Installation
-Run the LoginActivity.java file in app/src/main/java/com/example/vietfoodapp/LoginActivity.java in Android Studio,
+Run the LoginActivity.java file in app/src/main/java/com/example/vietfoodapp/LoginActivity.java in Android Studio.
 
 ## Credits 
 All photographs within the application are from Unsplash or personal photographs. 
