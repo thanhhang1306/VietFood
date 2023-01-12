@@ -6,9 +6,9 @@ The application was designed to solve an issue from a client, who found it diffi
   
   → Part 1: Planning -- Defining the problem, rationale for development, and success criteria. Link to documentation [here](https://drive.google.com/file/d/1Arm3wEG6egSRmfzcR7nsQTQvEMTgbFyn/view?usp=share_link).
   
-  → Part 2: Record of tasks -- Plan out the general timeline for the development of the application. Link to documentation [here](https://drive.google.com/file/d/1d13xU7pKH70bJd7o2isHXlXHEQT1yoqx/view?usp=share_link).
+  → Part 2: Record of tasks -- Plan out the general timeline for the development of the application. Link to documentation [here](https://docs.google.com/spreadsheets/d/1438jmc60yZ8WATKhLwyFUdHgVIiW7_MZ/edit?usp=share_link&ouid=101330821966771009685&rtpof=true&sd=true).
   
-  → Part 3: Design -- Define graphical user interface for applciation, system storyboard, system flowchart, UML class interaction, and justification of data structure. Link to documentation [here](https://drive.google.com/file/d/1kEuhx1F4w5neoiH75izze_5pVVqrMrHA/view?usp=share_link).
+  → Part 3: Design -- Define graphical user interface for applciation, system storyboard, system flowchart, UML class interaction, and justification of data structure. Link to documentation [here](https://drive.google.com/file/d/1d13xU7pKH70bJd7o2isHXlXHEQT1yoqx/view?usp=share_link).
   
   → Part 4: Development -- In addition to code provided, document functionalities and notable algorithms within the code. Link to documentation [here](https://drive.google.com/file/d/1kEuhx1F4w5neoiH75izze_5pVVqrMrHA/view?usp=share_link).
   
